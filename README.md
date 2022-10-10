@@ -1,2 +1,2 @@
 # Smart-Calculator
-Kotlin Basics Smart Calculator project
+JetBrains Academy Kotlin Basics Smart Calculator project
